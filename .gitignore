@@ -1,0 +1,24 @@
+# Videos (too large for git — share separately)
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# YOLO model weights (auto-download; don't commit)
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Large / generated outputs (optional — see note in README)
+outputs/**/*.mp4
+outputs/**/*_annotated.mp4
+
+# OS junk
+.DS_Store
+outputs/
+camera_images/

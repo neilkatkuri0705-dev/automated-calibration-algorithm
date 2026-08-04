@@ -1,0 +1,29 @@
+{
+  "camera": "DMTV09_20260708_150617_raw",
+  "source_px": [
+    [
+      59.8,
+      179.8
+    ],
+    [
+      347,
+      266.7
+    ],
+    [
+      405.5,
+      67.7
+    ],
+    [
+      351.7,
+      55.1
+    ]
+  ],
+  "order": [
+    "near_left",
+    "near_right",
+    "far_right",
+    "far_left"
+  ],
+  "width_ft": 48,
+  "length_ft": 280
+}

@@ -1,0 +1,7 @@
+{
+  "camera": "single_camera",
+  "source_px": [[157.1, 268.4], [363.5, 268.7], [126.5, 105.5], [70.2, 109.5]],
+  "order": ["near_left", "near_right", "far_right", "far_left"],
+  "width_ft": 36.0,
+  "length_ft": 160.0
+}
